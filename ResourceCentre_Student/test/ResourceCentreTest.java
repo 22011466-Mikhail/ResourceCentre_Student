@@ -8,7 +8,7 @@ import org.junit.Test;
 // C206 AY2023 SEM1 - Eclipse 21-09 JDK16
 //hakim
 //mikhail
-//yong chuan123
+//yong chuan12
 public class ResourceCentreTest {
 	// prepare test data
 	private Camcorder cc1;

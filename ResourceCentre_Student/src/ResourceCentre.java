@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 //hakim
 //mikhail
-//yong chuan123
+//yong chuan1S
 public class ResourceCentre {
 
 	public static void main(String[] args) {
