@@ -9,6 +9,7 @@ import org.junit.Test;
 //hakim
 //mikhail
 //yong chuan12
+//jayanth
 public class ResourceCentreTest {
 	// prepare test data
 	private Camcorder cc1;
