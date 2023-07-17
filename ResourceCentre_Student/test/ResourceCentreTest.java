@@ -10,6 +10,7 @@ import org.junit.Test;
 //mikhail
 //yong chuan12
 //jayanth
+//Norhilman
 public class ResourceCentreTest {
 	// prepare test data
 	private Camcorder cc1;
@@ -96,6 +97,7 @@ public class ResourceCentreTest {
 		assertEquals("Test that the Chromebook arraylist size is unchange.", 2, chromebookList.size());
 
 	}
+	
 
 	@Test
 	public void testRetrieveAllCamcorder() {
@@ -285,5 +287,5 @@ public class ResourceCentreTest {
 		chromebookList = null;
 
 	}
-//mikhail done
+
 }
